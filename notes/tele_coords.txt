@@ -1,0 +1,74 @@
+Location					x-coord	y-coord
+teleporting +6400 will take you underground in most cases
+
+Nature's grotto (Nature Spirit):		3442	9734
+Chest room (Shades of Mor'ton minigame):	3493	9725
+Barrows Chest room (Barrows minigame):		3552	9694
+Burgh de Rott bar basement:			3490	9631
+Haunted Min (Haunted Mine quest):		3421	9625
+Mage Training (Alch room):			3364	9638
+Cave With water (probably for some quest)	3370	9570
+Lumbridge castle basement:			3210	9616
+Draynor prison dungeon:				3118	9644
+Tears of Guthix (Minigame & quest):		3250	9517
+Draynor dasement (Ernest the chicken quest):	3117	9755
+Champions guild basement:			3188	9758
+Black arm gang hq (Shield of Arrav):		3244	9782
+Some kind of basement:				3232	9801
+Anger Room (A Soul's Bane):			3280	9837
+Fear Room (A Soul's Bane):			3280	9803
+Confusion Room (A Soul's Bane): 		3314	9803
+Fear Room2 (A Soul's Bane):			3315	9837
+Digsite Underground, altar of zaros:		3370	9828
+Varrock sewers:					3237	9859
+Varrock west bank basement:			3190	9833
+Edgeville dungeon, Hill giants:			3117	9852
+Edgeville dungeon:				3096	9867
+Evile Dave's mom's basement:			3077	9893
+Ladder to air obilisk in wilderness:		3089	9971
+Dwarf Mines (ice mountain entrance):		3020	9850
+Goblin village basement (after explosion):	2980	9871 
+Goblin village basement (before explosion):	2980	9911
+Hero's guild basement:				2893	9907
+Ice queen's lair				2865	9954
+Fremenik Slayer dungeon:			2808	10002
+Troll stronghold:				2842	10059
+Troll cave:					2907	10021
+Troll-related cave:				2933	10085
+Troll-related cave:				2892	10076
+Giant dwarf quest start:			2838	10125
+Keldagrim:					2877	10199
+Icy cave:					2802	10189
+Entrance to Keldagrim from fremenik place:	2775	10160
+Big troll cave:					2784	10071
+Fremenik Trials naviation dungeon:		2630	10006
+Fremenik Trials fight dungeon:			2661	10087
+Ice mountain undergound pass west:		2821	9882
+Ice mountain undergound pass east:		2876	9879
+Witch's hous basement:				2905	9874
+Taverly dungeon:				2884	9798
+Inside a box1:					2793	9819
+Inside a box2:					2778	9839
+Elemental workshop:				2720	9889
+Temple of Ikov dungeon:				2677	9804
+Waterfall dungeon quest end:			2603	9909
+Waterfall dungeon:				2575	9862
+Waterfall dungeon quest end with water:		2539	9911
+Barbarian agility rope fail:			2548	9951
+Grand tree basement:				2462	9896
+Grand tree glider room:				2393	9892
+Underground pass Dwarf camp:			2813	9806
+Brimstall's cave:				2409	9819
+Glarial's tomb:					2554	9844
+Sewer under Edmond's garden (Plague City):	2515	9755
+Underground Pass (Ardougne side):		2493	9716
+Underground Pass, fail to cross swamp:		2560	9641
+Dungeon under tree gnome village maze:		2532	9555
+Underground Pass (Elf side):			2316	9624
+Elf land, fail trap?:				2396	9560
+Castle Wars waiting room (Zamorak):		2422	9522
+Castle Wars waiting room (Saradomin):		2381	9490
+Castle Wars Underground:			2400	9500
+Observatory dungeon:				2419	9454
+Ogre coffin room:				2456	9441
+Ogre dungeon with green crystal:		2591	9428
