@@ -1,0 +1,41 @@
+0x306	- Harpooning?
+0x307	- 
+0x308	- 
+0x309	- 
+0x310	- 
+0x311	- 
+0x312	- 
+0x313	- 
+0x314	- 
+0x315	- 
+0x316	- 
+0x317	- 
+0x318	- 
+0x319	- 
+0x320	- 
+0x321	- 
+0x322	- 
+0x323	- 
+0x324	- 
+0x325	- 
+0x326	- Standard Emote Attack
+0x328	- Standard Emote
+0x329	- 
+0x330	- 
+0x331	- 
+0x332	- 
+0x333	- Standard Emote Walking
+0x334	- turn180AnimIndex
+0x335	- turn90CWAnimIndex
+0x336	- turn90CCWAnimIndex
+0x337	- standTurnAnimIndex
+0x338	- Standard Emote Run
+0x339	- 
+0x340	- Steal-from-stall-emote?
+0x383	- Smelt bars?
+0x422	- Something about whacking
+
+
+	if (playerLevel[skill] >= 120) {
+		    sendMessage("Congratulations on getting Level 120!, Remember to get your skill cape!");
+		}
